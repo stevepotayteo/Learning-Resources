@@ -8,3 +8,5 @@
 - Options
 	- http://stackoverflow.com/questions/2079170/what-is-the-point-of-the-class-optiont
 	- http://simply.liftweb.net/index-7.2.html
+- Akka
+	- [Three Flavours of Request-Response Pattern in Akka](http://java.dzone.com/articles/three-flavours-request)
